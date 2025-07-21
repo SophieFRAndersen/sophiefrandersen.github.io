@@ -17,7 +17,8 @@ minimal: false           # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "/SophieGithubCV.pdf", title: "CV"}
-  - {file: "README.md", title: "About me", icon: address-card}
+  - {file: "README.md", title: "About me",}
+  - {file: "projects.html", title: "Projects"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:sophie.andersen@outlook.com"}
