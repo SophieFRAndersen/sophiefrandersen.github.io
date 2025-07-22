@@ -1,12 +1,12 @@
 ---
-title: "About"
+title: "about me"
 permalink: "/about/"
 layout: page
 ---
 
-## Installation
+# Who am I?
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) to `your_username.github.io` and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+My name is Sophie, and I am a third-year Electrical Engineering student at Georgia Tech!
 
 ## Features
 
